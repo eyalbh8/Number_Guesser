@@ -26,3 +26,7 @@ while True:
     Number_prediction(Guesser_model, random_number)
 ```
 The result is printed in the terminal and in matplotlib image
+
+![image](https://user-images.githubusercontent.com/87011531/153202772-7c97a228-efcc-43d1-b015-1a47f977cc97.png)
+
+![image](https://user-images.githubusercontent.com/87011531/153202495-805cc85f-7b4b-4ecd-8328-d595a081e7fb.png)
