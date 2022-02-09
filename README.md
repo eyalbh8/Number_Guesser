@@ -25,3 +25,4 @@ while True:
     random_number = randrange(0,10000)
     Number_prediction(Guesser_model, random_number)
 ```
+The result is printed in the terminal and in matplotlib image
